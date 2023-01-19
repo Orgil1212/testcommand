@@ -2,3 +2,5 @@ Hello Git
 
 daraalal 
 bolon undsen bicheglel
+
+print(hellO);
